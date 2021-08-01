@@ -1,0 +1,16 @@
+C:\Users\caio_\OneDrive\Desktop\APP .NET\vendas\obj\Debug\net5.0\vendas.csproj.AssemblyReference.cache
+C:\Users\caio_\OneDrive\Desktop\APP .NET\vendas\obj\Debug\net5.0\vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caio_\OneDrive\Desktop\APP .NET\vendas\obj\Debug\net5.0\vendas.AssemblyInfoInputs.cache
+C:\Users\caio_\OneDrive\Desktop\APP .NET\vendas\obj\Debug\net5.0\vendas.AssemblyInfo.cs
+C:\Users\caio_\OneDrive\Desktop\APP .NET\vendas\obj\Debug\net5.0\vendas.csproj.CoreCompileInputs.cache
+C:\Users\caio_\OneDrive\Desktop\APP .NET\vendas\bin\Debug\net5.0\vendas.exe
+C:\Users\caio_\OneDrive\Desktop\APP .NET\vendas\bin\Debug\net5.0\vendas.deps.json
+C:\Users\caio_\OneDrive\Desktop\APP .NET\vendas\bin\Debug\net5.0\vendas.runtimeconfig.json
+C:\Users\caio_\OneDrive\Desktop\APP .NET\vendas\bin\Debug\net5.0\vendas.runtimeconfig.dev.json
+C:\Users\caio_\OneDrive\Desktop\APP .NET\vendas\bin\Debug\net5.0\vendas.dll
+C:\Users\caio_\OneDrive\Desktop\APP .NET\vendas\bin\Debug\net5.0\ref\vendas.dll
+C:\Users\caio_\OneDrive\Desktop\APP .NET\vendas\bin\Debug\net5.0\vendas.pdb
+C:\Users\caio_\OneDrive\Desktop\APP .NET\vendas\obj\Debug\net5.0\vendas.dll
+C:\Users\caio_\OneDrive\Desktop\APP .NET\vendas\obj\Debug\net5.0\ref\vendas.dll
+C:\Users\caio_\OneDrive\Desktop\APP .NET\vendas\obj\Debug\net5.0\vendas.pdb
+C:\Users\caio_\OneDrive\Desktop\APP .NET\vendas\obj\Debug\net5.0\vendas.genruntimeconfig.cache
